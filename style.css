@@ -95,10 +95,10 @@ text-transform: uppercase;
     color: #e1e1e6;
 }
 
-/* @media (min-width: 700px){
+@media (min-width: 700px){
     #cards {
         max-width: 670px;
         flex-direction: row;
         flex-wrap: wrap;
     }
-} */
+}
